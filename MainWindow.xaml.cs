@@ -3,7 +3,7 @@ using System.Windows;
 using System.Windows.Input;
 using System.Windows.Media.Animation;
 
-namespace PictureResize
+namespace WPF_Anim_PictureResize_Ex
 {
 	public partial class MainWindow : Window
 	{
